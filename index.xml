@@ -6,9 +6,30 @@
     <description>Recent content on bvrner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://bvrner.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Intro</title>
+      <link>https://bvrner.github.io/posts/intro/</link>
+      <pubDate>Sun, 01 Mar 2020 11:14:12 -0300</pubDate>
+      
+      <guid>https://bvrner.github.io/posts/intro/</guid>
+      <description>Me I&amp;rsquo;m just a computer science guy that likes graphics and music.
+This Blog This blog was created mostly to kill some time and write some stuff, so I don&amp;rsquo;t really expect to get attention or many readers. Most posts here will probably be about computer graphics or any other thing I get interested in.
+The Content I don&amp;rsquo;t know man, interesting stuff to you, I hope.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://bvrner.github.io/about/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bvrner.github.io/about/</guid>
+      <description>Just another computer science student. I started programming in my teenage years and never came back. Now I take interest in computer graphics, functional programming and compiler construction.</description>
+    </item>
     
   </channel>
 </rss>
