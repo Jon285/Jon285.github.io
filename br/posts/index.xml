@@ -1,0 +1,30 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on bvrner</title>
+        <link>https://bvrner.github.io/br/posts/</link>
+        <description>Recent content in Posts on bvrner</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <lastBuildDate>Sun, 01 Mar 2020 11:14:12 -0300</lastBuildDate>
+        <atom:link href="https://bvrner.github.io/br/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Intro</title>
+            <link>https://bvrner.github.io/br/posts/intro/</link>
+            <pubDate>Sun, 01 Mar 2020 11:14:12 -0300</pubDate>
+            
+            <guid>https://bvrner.github.io/br/posts/intro/</guid>
+            <description>Eu Apenas um cara da ciência da computação que gosta de gráficos e música.
+Esse Blog Esse blog foi criado mais pra matar o tempo e escrever alguma coisa, então não realmente espero ganhar atenção ou ter vários leitores. A maioria dos posts vão ser sobre gráficos ou qualquer outra coisa que eu fique interessado.
+O Conteúdo Sei lá, coisas interessantes pra você, eu espero.</description>
+            <content type="html"><![CDATA[<h2 id="eu">Eu</h2>
+<p>Apenas um cara da ciência da computação que gosta de gráficos e música.</p>
+<h2 id="esse-blog">Esse Blog</h2>
+<p>Esse blog foi criado mais pra matar o tempo e escrever alguma coisa, então não realmente espero ganhar atenção ou ter vários leitores.
+A maioria dos posts vão ser sobre gráficos ou qualquer outra coisa que eu fique interessado.</p>
+<h2 id="o-conteúdo">O Conteúdo</h2>
+<p>Sei lá, coisas interessantes pra você, eu espero.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

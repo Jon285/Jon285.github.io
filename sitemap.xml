@@ -1,33 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://bvrner.github.io/posts/intro/</loc>
-    <lastmod>2020-03-01T11:14:12-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bvrner.github.io/posts/</loc>
-    <lastmod>2020-03-01T11:14:12-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bvrner.github.io/about/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bvrner.github.io/</loc>
-    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bvrner.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://bvrner.github.io/tags/</loc>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://bvrner.github.io/br/sitemap.xml</loc>
+		
+	   	<lastmod>2020-03-01T11:14:12-03:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://bvrner.github.io/en/sitemap.xml</loc>
+		
+	   	<lastmod>2020-03-01T11:14:12-03:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>

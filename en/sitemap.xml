@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://bvrner.github.io/posts/intro/</loc>
+    <lastmod>2020-03-01T11:14:12-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://bvrner.github.io/br/posts/intro/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bvrner.github.io/posts/intro/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bvrner.github.io/posts/</loc>
+    <lastmod>2020-03-01T11:14:12-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://bvrner.github.io/br/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bvrner.github.io/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bvrner.github.io/about/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://bvrner.github.io/br/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bvrner.github.io/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bvrner.github.io/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://bvrner.github.io/br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bvrner.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bvrner.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://bvrner.github.io/br/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bvrner.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://bvrner.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://bvrner.github.io/br/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bvrner.github.io/tags/"
+                />
+  </url>
+  
+</urlset>

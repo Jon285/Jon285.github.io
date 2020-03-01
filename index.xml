@@ -5,7 +5,6 @@
     <link>https://bvrner.github.io/</link>
     <description>Recent content on bvrner</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://bvrner.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -28,7 +27,10 @@ The Content I don&amp;rsquo;t know man, interesting stuff to you, I hope.</descr
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://bvrner.github.io/about/</guid>
-      <description>Just another computer science student. I started programming in my teenage years and never came back. Now I take interest in computer graphics, functional programming and compiler construction.</description>
+      <description>Me? I&amp;rsquo;m just another boring computer science student that started programming at his teenage years and ended up sucked by the rabbit hole.
+What do I do? I study CS, mostly computer graphics, but also compiler construction, operating systems and systems programming as a whole. I also study music by myself and play guitar.
+More about me? Well&amp;hellip;
+ 21 yo. Live in Brazil. Hate webdev. Aiming to get a degree in CS at the University of Brasília.</description>
     </item>
     
   </channel>

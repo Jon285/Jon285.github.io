@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bvrner</title>
+    <link>https://bvrner.github.io/br/</link>
+    <description>Recent content on bvrner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://bvrner.github.io/br/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro</title>
+      <link>https://bvrner.github.io/br/posts/intro/</link>
+      <pubDate>Sun, 01 Mar 2020 11:14:12 -0300</pubDate>
+      
+      <guid>https://bvrner.github.io/br/posts/intro/</guid>
+      <description>Eu Apenas um cara da ciência da computação que gosta de gráficos e música.
+Esse Blog Esse blog foi criado mais pra matar o tempo e escrever alguma coisa, então não realmente espero ganhar atenção ou ter vários leitores. A maioria dos posts vão ser sobre gráficos ou qualquer outra coisa que eu fique interessado.
+O Conteúdo Sei lá, coisas interessantes pra você, eu espero.</description>
+    </item>
+    
+    <item>
+      <title>Sobre mim</title>
+      <link>https://bvrner.github.io/br/about/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bvrner.github.io/br/about/</guid>
+      <description>Eu? Só mais um estudante de ciência da computação que começou a programar na adolescencia e acabou caindo no buraco do coelho.
+O que eu faço? Estudo CC, principalmente computação gráfica, mas também contrução de compiladores, sistemas operacionais e programação de sistemas em geral. Também estudo música por mim mesmo no meu tempo livre e toco guitarra.
+Mais sobre mim? Bom&amp;hellip;
+ 21 anos. Vivo no Brasil. Odeio webdev. Tentando conseguir um diplema em CC na Universidade de Brasília.</description>
+    </item>
+    
+  </channel>
+</rss>
